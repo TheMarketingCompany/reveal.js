@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'LondrinaSolid';
+  src: url('../fonts/LondrinaSolid-Regular/LondrinaSolid-Regular.ttf')format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+
+@font-face {
+  font-family: 'MontserratBd';
+  src: url('../fonts/Montserrat-Bold/Montserrat-Bold.ttf')format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat-Regular/Montserrat-Regular.ttf')format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: "LondrinaSolid";
+  font-size: 128px;
+  color: $white;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: "LondrinaSolid";
+  font-size: 100px;
+  color: $blue;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: "LondrinaSolid";
+  font-size: 48px;
+  color: $white;
+  font-weight: bold;
+}
+
+p {
+  font-family: "LondrinaSolid";
+  font-size: 24px;
+  color: $blue;
+
+}
